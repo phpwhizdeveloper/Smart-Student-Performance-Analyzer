@@ -3,8 +3,8 @@
 namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use app\Models\Subject;
-use app\Models\Mark;
+use App\Models\Subject;
+use App\Models\Mark;
 
 class Student extends Model
 {
